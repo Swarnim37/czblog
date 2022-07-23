@@ -32,11 +32,14 @@ export default function Home({ posts }) {
     <div className={styles.container}>
       <Head>
         <title>Sanatan Astrology Blogs</title>
-        <meta name="description" content="Vedic Astrology Blogs And Services" />
+        <meta
+          name="description"
+          content="Nabízíme tyto služby - výklad osobního horoskopu, konzultace současných trendů a vývoj v blízké budoucnosti, výběr vhodné doby pro začátek podnikání, operaci, cestování, apod."
+        />
         <link rel="icon" href="/img/logosvg.svg" />
         <meta
           name="Keywords"
-          content=" Vedic Astrology, Chart reading, Astrology consultations"
+          content=" výklad horoskopu, astrologické konzultace, váš védský horoskop  "
         />
       </Head>
 
